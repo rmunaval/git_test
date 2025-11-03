@@ -1,2 +1,1 @@
-# ds_repo_template
-Data Science repository template
+# Converse & Cortex Git Practice
